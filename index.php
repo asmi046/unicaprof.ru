@@ -2,6 +2,7 @@
 
 <?php get_template_part('template-parts/header-section');?>
 
+
 <main class="page">
 
 	<section id="slider-main" class="slider-main">
