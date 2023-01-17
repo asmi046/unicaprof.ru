@@ -4598,8 +4598,6 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   position: absolute;
   left: -10px;
   top: calc(50% - 3px);
-  width: 16px;
-  height: 14px;
   margin-right: 10px;
   width: 5px;
   height: 5px;
